@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "からっぽの街月夜の下",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-28T06:46:02.185386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "からっぽの街月夜の下",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_からっぽの街月夜の下_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "からっぽの街月夜の下 - Empty Town Beneath the Moonlit Night",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/02_からっぽの街月夜の下_-_Empty_Town_Beneath_the_Moonlit_Night_Orangestar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "からっぽの街月夜の下",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_からっぽの街月夜の下_Orangestar.txt"
+    }
+  ]
+}
