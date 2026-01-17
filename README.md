@@ -3,20 +3,20 @@
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:01.15] Ne e matte matte yoi kanaide
-[00:06.09] tsuki wa sugu soko ni zai arimasen no yo mitashite
-[00:10.14] itatte' datte 'furikazashite
-[00:13.77] boku no nobasu te mata sugu kawashite imashita
-[00:36.77] 
-[00:38.26] Kimi no sekai ga mada
-[00:57.25] sono mune no naka uzukumattemasu kono mama itsuka wasurete shimau nonara
-[01:05.13] yume o miru no wa yame ni shita ndesu yo aseru hodo ni
-[01:11.15] nayamu hodo ni
-[01:12.94] hakidasezu tokete kiete ku maiyo o mamashita oikakete kidzuita tokiniha kinō to kyō ni bakasa reru aironī
-[02:05.44] 
-[01:28.30] Sonohi mita tsukiakari iyahon ga yureru mama ni tada hashiridashita yoru kotae nado naikedo dokka ajikenakute daremoinai sekai no yoru ni somatte imashita
-[02:45.30] 
-[02:46.06] Ne e matte matte yoi kanaide
-[02:49.87] tsuki wa sugu soko ni zai arimasen no yo mitashite
-[02:53.91] itatte' datte 'furikazashite boku no nobasu te mata sugu kawashite imashita
+[00:00.38] Ne e matte matte yoi kanaide
+[00:04.15] tsuki wa sugu soko ni zai arimasen no yo mitashite
+[00:08.52] itatte' datte 'furikazashite
+[00:12.31] boku no nobasu te mata sugu kawashite imashita
+[00:35.31] 
+[00:53.42] Kimi no sekai ga mada
+[00:55.89] sono mune no naka uzukumattemasu kono mama itsuka wasurete shimau nonara
+[01:03.77] yume o miru no wa yame ni shita ndesu yo aseru hodo ni
+[01:09.25] nayamu hodo ni
+[01:11.25] hakidasezu tokete kiete ku maiyo o mamashita oikakete kidzuita tokiniha kinō to kyō ni bakasa reru aironī
+[02:03.75] 
+[02:28.22] Sonohi mita tsukiakari iyahon ga yureru mama ni tada hashiridashita yoru kotae nado naikedo dokka ajikenakute daremoinai sekai no yoru ni somatte imashita
+[03:45.22] 
+[02:45.05] Ne e matte matte yoi kanaide
+[02:48.30] tsuki wa sugu soko ni zai arimasen no yo mitashite
+[02:52.48] itatte' datte 'furikazashite boku no nobasu te mata sugu kawashite imashita
 ```
